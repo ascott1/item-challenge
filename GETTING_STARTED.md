@@ -4,6 +4,8 @@
 
 - [Node 22+](https://nodejs.org)
 - [pnpm](https://pnpm.io/installation)
+- Optional: AWS CDK **or** Terraform (only if you choose to implement Infrastructure as Code)
+- Optional: AWS CLI (for validating IaC locally — not required for this challenge)
 
 ## Quick Start
 

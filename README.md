@@ -116,6 +116,12 @@ pnpm dev
 
 ## Submission
 
-Push your solution to your fork and send the link to the recruiter you have been communicating with.
+Please fork this repository and submit your completed solution by sharing your forked repo link with your recruiter.
 
+### Include the following in your submission:
+
+- Instructions on how to run your solution locally  
+- Include a brief `ARCHITECTURE.md` describing your system’s structure and key components  
 Good luck! We're excited to see your solution.
+
+> See also the [Glossary](./GLOSSARY.md) for definitions of key terms used in this challenge.
