@@ -119,3 +119,5 @@ pnpm dev
 Push your solution to your fork and send the link to the recruiter you have been communicating with.
 
 Good luck! We're excited to see your solution.
+
+> See also the [Glossary](./GLOSSARY.md) for definitions of key terms used in this challenge.
